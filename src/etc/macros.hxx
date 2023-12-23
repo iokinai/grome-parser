@@ -1,4 +1,6 @@
-#include "exceptions/not_implemented.hxx"
+#pragma once
+
+#include "../exceptions/not_implemented.hxx"
 
 using grome::exceptions::not_implemented;
 

@@ -1,3 +1,5 @@
+#pragma once
+
 namespace grome {
     enum class rel {
         alternate,

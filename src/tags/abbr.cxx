@@ -1,5 +1,5 @@
-#include "abbr.h"
-#include "macros.h"
+#include "abbr.hxx"
+#include "macros.hxx"
 
 namespace grome {
     abbr::abbr(tag *tag) : innerHTML(tag) {

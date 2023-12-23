@@ -1,5 +1,5 @@
-#include "a.h"
-#include "macros.h"
+#include "a.hxx"
+#include "macros.hxx"
 
 namespace grome {
     

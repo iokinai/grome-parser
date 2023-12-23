@@ -1,5 +1,5 @@
 #include "comment.hxx"
-#include "../etc/macros.hxx"
+
 
 namespace grome {
 
@@ -7,7 +7,7 @@ namespace grome {
         return this->txt;
     }
 
-    std::string &comment::to_html() const {
+    std::string &comment::to_html() const {        
         NOT_IMPLEMENTED("");
     }
 }
